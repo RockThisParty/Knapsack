@@ -55,10 +55,10 @@ print_value(a/)
 **
 
 findvect(a,L1/b)
-Ob
-§1 Os Q1-1⇒j ∆b⇒c
-§2 c&1*L1j+s⇒s c>1⇒c ∇j c↦2 ↑(s≠a)1
-**
+Ob Q1⇒j
+§1 ∇j ↑(a≥L1j)2 j↪3 →1
+§2 a-L1j⇒a 7-j⇒m 1<m⇒m b∨m⇒b j↦1
+§3 **
 
 obratnoe(a,b/c)
 1⇒c
